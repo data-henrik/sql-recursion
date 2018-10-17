@@ -9,7 +9,9 @@ The image below, based on Escher's drawing hands, is taken from this [blog post 
 
 ## Sample queries
 Sample queries in this repository:
-- asasasd
+- [Db2-based Sudoku solver](db2_sudoku.sql), see below for SQLite original
+- [compute factorial](factorial.sql)
+- [XML test data generation](xml_test_data.sql)
 
 ## Db2 References
 References to the Db2 Knowledge Center
