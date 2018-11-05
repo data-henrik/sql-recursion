@@ -1,6 +1,6 @@
 # Some iterations over recursion (in Db2)
 
-In this repository, you find additional material, helpful links and more related to the talks on SQL recursion that [Michael Tiefenbach](https://twitter.com/globomike) and I have given at the [German Db2 User Group (DeDUG)](https://www.worldofdb2.com/group/dedug) and at the [IDUG EMEA DB2 Tech Conference](https://www.idug.org/emea2018).
+In this repository, you find additional material, helpful links and more related to the talks on SQL recursion that [Michael Tiefenbacher](https://twitter.com/globomike) and I have given at the [German Db2 User Group (DeDUG)](https://www.worldofdb2.com/group/dedug) and at the [IDUG EMEA DB2 Tech Conference](https://www.idug.org/emea2018).
 
 
 The image below, based on Escher's drawing hands, is taken from this [blog post on two kinds of SQL recursion](https://blog.4loeser.net/2018/04/db2-cte-and-connect-by-two-kinds-of.html).
