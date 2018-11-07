@@ -13,6 +13,7 @@ Sample queries in this repository:
 - [compute factorial](factorial.sql)
 - [XML test data generation](xml_test_data.sql)
 - [compute table dependencies](dependencies.sql), use the catalog tables to determine best order to export database objects
+- [CONNECT BY vs. CTE](connect_by.sql) shows the same task done differently
 
 ## Flight route
 Information on airports, airlines, connections and more is available on [OpenFlights](https://openflights.org/data.html). The script [flightroute_setup.sql](flightroute_setup.sql) provides the statements to set up tables and import data downloaded from OpenFlights.
