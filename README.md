@@ -9,7 +9,7 @@ The image below, based on Escher's drawing hands, is taken from this [blog post 
 
 ## Sample queries
 Sample queries in this repository:
-- [Db2-based Sudoku solver](db2_sudoku.sql), see below for SQLite original
+- [Db2-based Sudoku solver](db2_sudoku.sql) and [Db2z-based Sudoku solver](db2z_sudoku.sql), see below for SQLite original
 - [compute factorial](factorial.sql)
 - [XML test data generation](xml_test_data.sql)
 - [compute table dependencies](dependencies.sql), use the catalog tables to determine best order to export database objects
