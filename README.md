@@ -3,7 +3,7 @@
 In this repository, you find additional material, helpful links and more related to the talks on SQL recursion that [Michael Tiefenbacher](https://twitter.com/globomike) and I have given at the [German Db2 User Group (DeDUG)](https://www.worldofdb2.com/group/dedug) and at the [IDUG EMEA DB2 Tech Conference](https://www.idug.org/emea2018).
 
 
-The image below, based on Escher's drawing hands, is taken from this [blog post on two kinds of SQL recursion](https://blog.4loeser.net/2018/04/db2-cte-and-connect-by-two-kinds-of.html).
+The image below, based on Escher's drawing hands, is taken from this [blog post on two kinds of SQL recursion](https://data-henrik.de/2018/04/db2-cte-and-connect-by-two-kinds-of/).
 ![](images/DrawingHandsSQL2.png)
 
 
@@ -29,7 +29,7 @@ References to the Db2 Knowledge Center
 
 ## Related blogs and links
 
-- [Db2: CTE and CONNECT BY - two kinds of recursion](https://blog.4loeser.net/2018/04/db2-cte-and-connect-by-two-kinds-of.html)
-- [Db2: Some Friday Fun with XML and SQL recursion](https://blog.4loeser.net/2018/08/db2-some-friday-fun-with-xml-and-sql.html)
+- [Db2: CTE and CONNECT BY - two kinds of recursion](https://data-henrik.de/2018/04/db2-cte-and-connect-by-two-kinds-of/)
+- [Db2: Some Friday Fun with XML and SQL recursion](https://data-henrik.de/2018/08/db2-some-friday-fun-with-xml-and-sql/)
 - [SQLite WITH Clause, Sudoku and Mandelbrot](https://sqlite.org/lang_with.html)
 - [Jupyter Notebook with DeDUG talk about SQL recursion](https://github.com/data-henrik/notebooks/blob/master/201804_DeDUG_SQLRecursion.ipynb)
