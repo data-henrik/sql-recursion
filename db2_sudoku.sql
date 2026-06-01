@@ -8,7 +8,7 @@ WITH
     CAST(lp+1 AS varchar(200)), lp+1 FROM DIGITS WHERE lp<9
   ),
   X(s, ind) AS (
-    SELECT sud, instr(sud, '.') FROM INPUT
+    SELECT cast(sud as varchar(100)), instr(sud, '.') FROM INPUT
     UNION ALL
     SELECT
       substr(s, 1, ind-1) || z || substr(s, ind+1),
